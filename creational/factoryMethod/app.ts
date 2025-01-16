@@ -1,5 +1,5 @@
 // app.ts
-import { CircleFactory } from "./circlefactory";
+import { CircleFactory } from "./circleFactory";
 import { ShapeFactory } from "./factory";
 import { RectangleFactory } from "./rectangleFactory";
 
