@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "singleton": "npx ts-node creational/singleton/app.ts",
     "factory": "npx ts-node creational/factoryMethod/app.ts",
-    "abstractFactory": "npx ts-node creational/abstractFactory/app.ts"
+    "abstractFactory": "npx ts-node creational/abstractFactory/app.ts",
+    "prototype": "npx ts-node creational/prototype/app.ts"
   },
   "author": "",
   "license": "ISC"

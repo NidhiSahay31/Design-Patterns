@@ -12,3 +12,5 @@
         - Creator(Factory)
           - SubCreator(CircleFactory & RectangleFactory)
   ## Abstract Factory
+  ## Prototype
+  
