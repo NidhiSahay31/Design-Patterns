@@ -19,4 +19,7 @@
 
 ## Structural
    # Adapter 
+     - Legacy class(legacyLogger)
+     - New class(newLogger)
+     - Adapter class(loggerAdapter)
    # Facade 
