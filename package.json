@@ -9,7 +9,8 @@
     "factory": "npx ts-node creational/factoryMethod/app.ts",
     "abstractFactory": "npx ts-node creational/abstractFactory/app.ts",
     "prototype": "npx ts-node creational/prototype/app.ts",
-    "builder": "npx ts-node  creational/builder/app.ts"
+    "builder": "npx ts-node  creational/builder/app.ts",
+    "adaptive": "npx ts-node structural/adapter/app.ts"
   },
   "author": "",
   "license": "ISC"

@@ -16,3 +16,7 @@
   ## Builder
 
 ## Behavioral
+
+## Structural
+   # Adapter 
+   # Facade 
