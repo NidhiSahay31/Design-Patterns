@@ -6,6 +6,8 @@
 ## Creational
   ### Singleton
   ### Factory Method
+      Allows subclasses to modify the objects without affecting superclass
+      Use when you don’t know beforehand the exact types and dependencies of the objects your code should work with.
     - Factory Method
         - Interface(Shape)
         - Concrete(Circle & Rectangle)

@@ -10,7 +10,7 @@ import { Shape } from "./shape";
 
 
 export abstract class ShapeFactory {
-    public abstract createShape(): Shape;
+    public abstract createShape(): Shape;  // factoryMethod
   
     public render(): void {
       const shape = this.createShape();
