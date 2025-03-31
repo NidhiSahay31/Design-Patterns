@@ -4,22 +4,22 @@
   - Structural
 
 ## Creational
-  ## Singleton
-  ## Factory Method
+  ### Singleton
+  ### Factory Method
     - Factory Method
         - Interface(Shape)
         - Concrete(Circle & Rectangle)
         - Creator(Factory)
           - SubCreator(CircleFactory & RectangleFactory)
-  ## Abstract Factory
-  ## Prototype
-  ## Builder
+  ### Abstract Factory
+  ### Prototype
+  ### Builder
 
 ## Behavioral
 
 ## Structural
-   # Adapter 
+   ### Adapter 
      - Legacy class(legacyLogger)
      - New class(newLogger)
      - Adapter class(loggerAdapter)
-   # Facade 
+   ### Facade 
