@@ -25,3 +25,9 @@
      - New class(newLogger)
      - Adapter class(loggerAdapter)
    ### Facade 
+   ### Bridge
+       Decouples implementation from abstract class and add more flexibility
+       - Abstract(Shape)
+       - Refined Abstract(Circle)
+       - Implementation + Concrete implementation(Implementor)
+
