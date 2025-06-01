@@ -12,7 +12,8 @@
     "builder": "npx ts-node  creational/builder/app.ts",
     "adaptive": "npx ts-node structural/adapter/app.ts",
     "bridge": "npx ts-node structural/bridge/app.ts",
-    "decorator": "npx ts-node structural/decorator/app.ts"
+    "decorator": "npx ts-node structural/decorator/app.ts",
+    "facade": "npx ts-node structural/facade/app.ts"
   },
   "author": "",
   "license": "ISC"

@@ -37,6 +37,9 @@
         - Base Decorator(coffeeDecorator)
         - Concrete decorators(milkDecorator, sugarDecorator)
    ### Facade
+       It is a simple interface to a complex subsystem which contains lots of moving parts.
+       - Complex system
+       - Facade class
 
    ### Proxy
 
