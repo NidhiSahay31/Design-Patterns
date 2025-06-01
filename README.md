@@ -24,10 +24,19 @@
      - Legacy class(legacyLogger)
      - New class(newLogger)
      - Adapter class(loggerAdapter)
-   ### Facade 
    ### Bridge
        Decouples implementation from abstract class and add more flexibility
        - Abstract(Shape)
        - Refined Abstract(Circle)
        - Implementation + Concrete implementation(Implementor)
+   ### Composite
+   ### Decorator
+       It lets you attach add new behavior or responsibilities to an object dynamically.
+        - Base component(coffee)
+        - Concrete component(simpleCoffee)
+        - Base Decorator(coffeeDecorator)
+        - Concrete decorators(milkDecorator, sugarDecorator)
+   ### Facade
+
+   ### Proxy
 
