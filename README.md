@@ -30,6 +30,10 @@
        - Refined Abstract(Circle)
        - Implementation + Concrete implementation(Implementor)
    ### Composite
+       Composite pattern makes sense only when the core model of your app can be represented as a tree.
+       - Component
+       - Leaf
+       - Composite
    ### Decorator
        It lets you attach add new behavior or responsibilities to an object dynamically.
         - Base component(coffee)
@@ -40,6 +44,5 @@
        It is a simple interface to a complex subsystem which contains lots of moving parts.
        - Complex system
        - Facade class
-
    ### Proxy
 
