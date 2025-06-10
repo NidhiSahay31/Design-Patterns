@@ -45,4 +45,6 @@
        - Complex system
        - Facade class
    ### Proxy
-
+       - ServiceInterface
+       - Service
+       - Proxy
